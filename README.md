@@ -12,17 +12,17 @@ AGENDA
 
  ATTRIBUTES AND DESCRIPTION
 
- 1. Airline - Name of the airline company
- 2. Flight - Plane's flight code
- 3. Source City - City from which the flight takes off
- 4. Departure Time - Time of Departure
- 5. Stops - Number of stops between the source and destination cities
- 6. Arrival Time - Time of Arrival
+ 1. Airline -          Name of the airline company
+ 2. Flight -           Plane's flight code
+ 3. Source City -      City from which the flight takes off
+ 4. Departure Time -   Time of Departure
+ 5. Stops -            Number of stops between the source and destination cities
+ 6. Arrival Time -     Time of Arrival
  7. Destination City - City where the flight will land
- 8. Class - Contains information on seat class
- 9. Duration - Overall amount of time taken to travel between cities in hours.
- 10. Days left - Subtracting the trip date by the booking date.
- 11. price - Ticket price
+ 8. Class -            Contains information on seat class
+ 9. Duration -         Overall amount of time taken to travel between cities in hours.
+ 10. Days left -       Subtracting the trip date by the booking date.
+ 11. price -           Ticket price
 
 Steps
 1. I started off this project by importing the important libraries required for the project.
