@@ -22,6 +22,7 @@ ATTRIBUTES                            DESCRIPTION
  Class                                 Contains information on seat class
  Duration                              Overall amount of time taken to travel between cities in hours.
  Days left                             Subtracting the trip date by the booking date.
+ price                                 Ticket price
 
 Steps
 1. I started off this project by importing the important libraries required for the project.
@@ -42,4 +43,3 @@ Steps
 
 
 
-# Price                                 Ticket price
