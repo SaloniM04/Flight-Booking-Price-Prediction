@@ -10,19 +10,19 @@ AGENDA
 - Feature selection
 - Implementing ML algorithm
 
-ATTRIBUTES                            DESCRIPTION
+# ATTRIBUTES                            DESCRIPTION
 
- Airline                               Name of the airline company
- Flight                                Plane's flight code
- Source City                           City from which the flight takes off
- Departure Time                        Time of Departure
- Stops                                 Number of stops between the source and destination cities
- Arrival Time                          Time of Arrival
- Destination City                      City where the flight will land
- Class                                 Contains information on seat class
- Duration                              Overall amount of time taken to travel between cities in hours.
- Days left                             Subtracting the trip date by the booking date.
- price                                 Ticket price
+# Airline                               Name of the airline company
+# Flight                                Plane's flight code
+# Source City                           City from which the flight takes off
+# Departure Time                        Time of Departure
+# Stops                                 Number of stops between the source and destination cities
+# Arrival Time                          Time of Arrival
+# Destination City                      City where the flight will land
+# Class                                 Contains information on seat class
+# Duration                              Overall amount of time taken to travel between cities in hours.
+# Days left                             Subtracting the trip date by the booking date.
+# price                                 Ticket price
 
 Steps
 1. I started off this project by importing the important libraries required for the project.
