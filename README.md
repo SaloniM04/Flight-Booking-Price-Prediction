@@ -32,7 +32,10 @@ Steps
    - I created another line chart to see if the price of the ticket increases as the days left for departure decreases.
    - Visualised Price range of all the flights and ange of price of all the flights of Economy and Business class using the bar graph.
    - I created multiple subplots for visualization of categorical features with countplot.
-5. Feature Selection- Plotting the correlation graph to see the correlation between features and dependent variable
+5. Feature Selection- Plotting the correlation graph to see the correlation between features and dependent variable. Selected the features using
+   VIF where VIF should be less than 5.
+6. Linear Regression- Applied standardization and implemented Linear Regression Model to predict the price of a flight.
+   - Calculated r2 score, MAPE, MSE. Lower the RMSE and MAPE better the model.
 
 
  
